@@ -20,7 +20,9 @@
 - 📜 templateId (e.g., 3)
 <br>
 Join our discord
+<br>
         👇👇
+<br>
 discord.gg/FgM4zAw4qP
 **Enjoy 🤖🧑‍💻**
 
