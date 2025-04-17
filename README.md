@@ -19,6 +19,9 @@
 - 🆔 activityId (e.g., 73328238)
 - 📜 templateId (e.g., 3)
 <br>
+Join our discord
+        👇👇
+discord.gg/FgM4zAw4qP
 **Enjoy 🤖🧑‍💻**
 
 
