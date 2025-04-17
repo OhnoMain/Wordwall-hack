@@ -7,6 +7,7 @@
 5. Look for "getentryrank" or "leaderboard" in the network requests.
 6. Click on one of them.
 7. Scroll down and find the URL that looks like:
+   <br>
    htps://wordwall.net/leaderboardajax/getentryrank?score=2&time=25775&**activityId=73328238**&**templateId=3**
 8. Data looks like this(extracted from the link):
    - activityId (e.g., 73328238)
