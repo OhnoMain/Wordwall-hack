@@ -18,6 +18,9 @@
 8️⃣ Extract the important data 📝:
 - 🆔 activityId (e.g., 73328238)
 - 📜 templateId (e.g., 3)
+
+<img width="653" alt="image" src="https://github.com/user-attachments/assets/57d0b795-2ff6-44ac-b3e2-2023b551830a" />
+
 <br>
 Join our discord
 <br>
