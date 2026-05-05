@@ -26,7 +26,7 @@ Join our discord
 <br>
       👇👇
 <br>
-discord.gg/FgM4zAw4qP
-
+https://discord.com/users/1486806826946134239
+https://discord.gg/FKXR3TkQnt
 
 
